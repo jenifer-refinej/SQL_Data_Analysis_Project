@@ -1,7 +1,7 @@
 # 📊 Data Analyst Job Market Analysis (SQL Project)
 
 ## 🎯 Objective
-Analyze the highest-paying skills, most in-demand skills, and top remote data analyst jobs using SQL.
+To analyze job market trends and identify high-paying skills, in-demand technologies, and key skill combinations required for data analyst roles.
 
 ---
 
@@ -11,43 +11,43 @@ Analyze the highest-paying skills, most in-demand skills, and top remote data an
 ---
 
 ## 📂 Dataset
---Company Dim
---Job Posting
---Skills Dim
---SkillS Job Dim
+-J ob postings dataset (including salary, job title, and company data)
+-- Skills dataset mapped to job postings
 
 ---
-
-## 📊 Key Analysis
+##
+📊 Key Analysis & Insights
 
 💰 Top Paying Skills
-- PySpark, Databricks, and Cloud tools offer the highest salaries.
-- These skills are niche and less common.
+- Advanced technologies such as PySpark, Databricks, and cloud platforms offer the highest salaries
+- These skills appear less frequently, indicating high specialization and premium demand.
 
- 📈 Most In-Demand Skills
-- SQL, Excel, and Python dominate job postings.
-- These are essential entry-level skills.
+📈 Most In-Demand Skills
+- SQL, Excel, and Python dominate job postings
+- These are core foundational skills required across most data analyst roles.
 
-⚖️ Demand vs Salary
-- High-demand skills are not always high-paying.
-- High-paying skills are specialized.
+⚖️ Demand vs Salary Trade-off
+- High-demand skills are not always the highest-paying
+- Specialized tools (e.g., PySpark) offer higher salaries despite lower demand
+- This highlights a clear trade-off between accessibility and earning potential.
 
- 🏆 Top Paying Jobs
-- Director and Principal roles have the highest salaries.
-- These roles require experience.
+🏆 Top Paying Roles
+- Roles such as Director and Principal Data Analyst have the highest salaries
+- These roles require advanced technical skills and experience.
 
-🧠 Skills in Top Jobs
-- SQL, Python, Tableau are common across high-paying roles.
+🧠 Skills in High-Paying Jobs
+ - Common skill combinations include SQL, Python, and Tableau
+ - Indicates that both technical and visualization skills are essential for top roles.
+##
 
- 🚀 Key Insight
-To grow in a data career:
-- Start with SQL, Excel, Python
-- Move to advanced tools like PySpark, Cloud, Databricks
+🚀 Key Takeaways
+Foundational skills (SQL, Excel, Python) are essential to enter the field
+Advanced tools (PySpark, Cloud, Databricks) significantly increase earning potential
+Career growth in data analytics requires continuous upskilling and specialization
 
+##
  ⚠️ Note
 Salary data is based on global (primarily US) job postings.
 
-
-
 ## 📌 Conclusion
-This project shows the gap between skill demand and salary, helping learners focus on high-value skills.
+This analysis provides a clear roadmap for aspiring data analysts by highlighting the gap between skill demand and salary, helping prioritize learning toward high-value skills.
